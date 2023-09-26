@@ -1,0 +1,4 @@
+export const LOAD_CONTACT = 'LOAD_CONTACT'
+export const SUCCESS_CONTACT = 'SUCCESS_CONTACT'
+export const FAIL_CONTACT = 'FAIL_CONTACT'
+export const GET_ONE_CONTACT = 'GET_ONE_CONTACT'
